@@ -1,0 +1,36 @@
+.grid-container {
+  margin: 20px;
+}
+
+.dashboard-survey {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+}
+
+.more-button {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+
+.dashboard-survey-content {
+  text-align: center;
+  height: 75%;
+}
+
+.dashboard-survey-content img{
+  height: 100%;
+}
+
+.dashboard-survey p {
+  margin: .5rem 1rem;
+  text-align: right;
+}
+
+.card-bottom {
+  display: flex;
+    justify-content: space-between;
+}

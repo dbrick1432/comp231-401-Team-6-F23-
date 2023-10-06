@@ -1,0 +1,11 @@
+<tr [formGroup] = "quesForm" class="d-flex">
+    <td  class="text-center col-1" >{{queNum}}</td>
+    <td class="text-center col-7">
+        <input formControlName = "question" type="text" name="q" required>
+    </td>
+    <td>
+        <input name="TF{{queNum}}" type="radio" value="True">True
+        <input name="TF{{queNum}}" type="radio" value="False">Flase
+    </td>
+    
+</tr>
