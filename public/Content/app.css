@@ -125,7 +125,7 @@ h2{
 }
 
 h1 span{
-  color: rgb(215, 203, 127); 
+  color: White; 
   padding: 10px 7px; 
   font-family: Alegreya;
   display: table-cell;
@@ -133,7 +133,7 @@ h1 span{
 }
 
 h2 span{
-  color: rgb(215, 203, 127); 
+  color: White; 
   padding: 10px 5px; 
   font-family: Caveat;
   display: table-cell;
@@ -181,7 +181,7 @@ h2 span{
   left: 50%;
   width: 600px;
   height: 120px;
-  background: linear-gradient(transparent,rgb(229, 236, 163),rgb(159, 212, 235),rgb(59, 86, 224),transparent);
+  background: linear-gradient(transparent,white,rgb(159, 212, 235),rgb(59, 86, 224),transparent);
   animation: light 4s linear infinite;
  }
  @keyframes light 
@@ -229,7 +229,7 @@ h2 span{
   transform: translate(-50%, 50%);
   width: 500px;
   height: 150px;
-  background: linear-gradient(transparent,rgb(229, 236, 163),rgb(159, 212, 235),rgb(59, 86, 224),transparent);
+  background: linear-gradient(transparent,white,white,rgb(59, 86, 224),transparent);
   animation: light2 6s linear infinite;
   border-radius: 50%;
  }
@@ -279,7 +279,7 @@ h2 span{
   text-shadow: 0 15px 25px rgb(239, 243, 188);
   font-size: 2.2em;
   font-weight: 700;
-  color: rgb(247, 253, 121);
+  color: white;
   margin-top: -32%;
   transition: 0.5s;
   font-family: Caveat;
@@ -297,7 +297,7 @@ h2 span{
    transform: translateY(145px);    
    font-size: 1.5em;
    font-weight: 500;
-   color: rgb(249, 227, 103);
+   color: White;
    margin-top: -87%;
    transition: 0.5s;
    font-family: Caveat;
